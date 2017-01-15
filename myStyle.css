@@ -1,0 +1,15 @@
+#resultContainer{
+    position: absolute;
+    left: 40%;
+    top: 40%;
+}
+
+.numBox{
+    background: yellowgreen;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    border: 1px solid red;
+}
